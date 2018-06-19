@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fast Maxi Sydney</string>
+
+    <string name="text">On - Time *Reliable *Professional *Friendly</string>
+    <string name="secure_conn_exception">Unable to create secure connection.Please restart your app </string>
+    <string name="airport">*Airport / Cruise Transfer</string>
+    <string name="buses">*Party Buses For Group Transfer</string>
+    <string name="sydney">*Sydney Suburb Transfer</string>
+    <string name="wheelchair">*WheelChair / Baby Seat Available</string>
+    <string name="maxi">* 2 to 13 Seats Maxi Taxi and Cabs</string>
+    <string name="aps">10% To Airport -> APSY10</string>
+    <string name="css">8% To Cruise -> CSSY8</string>
+    <string name="gts">10% To Group Travel -> GTSY10</string>
+    <string name="note">Book before 24 Hours and get 10% off on our total fare.</string>
+    <string name="adrs">FAST MAXI \n 338 Waterloo Road, \n NSW 2190 \n Sydney, Australia</string>
+</resources>
